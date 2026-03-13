@@ -1,0 +1,10 @@
+thresholds:
+  voltage_min: 0
+  voltage_max: 50
+  current_min: 0
+  current_max: 20
+
+output:
+  cleaned_file: "output/cleaned_data.csv"
+  summary_file: "output/summary_report.csv"
+  plot_file: "output/power_plot.png"
